@@ -1,10 +1,12 @@
-### Prepárate para trabajar con Rails
+![Logo BrightCoders](../../img/logo-bc.png)
+
+# Prepárate para trabajar con Rails
 
 Para facilitar tu introducción a Rails hemos seleccionado algunos materiales que deberás estudiar antes de iniciar a trabajar en los retos.
 
 El objetivo de esta actividad no es que te conviertas en experto en Rails sino que te inicies en su uso y funcionamiento para que cuando corresponda trabajar en los retos te sea más fácil.
 
-Para iniciar te recomendamos los siguientes enlaces los cuales te serviran para tener una idea general de qué es y como funciona Rails:`
+Para iniciar te recomendamos los siguientes enlaces los cuales te serviran para tener una idea general de qué es y como funciona Rails:
 - [Observa el video The Tour de la página oficial de Rails](https://rubyonrails.org/)
 - [Inicia con la guía Getting Started with Rails](https://guides.rubyonrails.org/getting_started.html)
 
