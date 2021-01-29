@@ -2,7 +2,8 @@
 
 # Estrategias de aprendizaje
 
-FundamentaciónEn BrightCoders no hay clases ni  maestros, ¿entonces cómo vas a aprender?
+## Fundamentación
+En BrightCoders no hay clases ni  maestros, ¿entonces cómo vas a aprender?
 Nuestro programa se basa en la metodología __Learn by Doing__ y toman algunos conceptos de la __técnica Feynman__.
 
 ## Learn by Doing
