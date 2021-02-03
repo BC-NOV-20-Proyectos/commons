@@ -7,18 +7,6 @@
 - [Oficina virtual (Gather)](https://gather.town/app/9eaLflBZw2S0ZfN1/BrightCodersU)
 - [Seguimiento de actividades](https://github.com/bright-coders/commons/projects/1)
 
-## Próximos eventos
-
-| Fecha   | Hora | Lugar | Evento |
-|---------|:-----|:------|:-------| 
-| 04 Enero  | - | - | Re-inicio de actividades | 
-| 06 Enero | 11:00 | Conference Room | Taller Navegación con React Native |
-| 07 Enero | 11:00 | Conference Room | Taller Git (Segunda Parte) |
-| 08 Enero | 11:00 | Conference Room | Taller Testing para React Native |
-| 08 Febrero  | - | - | Próxima convocatoria BrightCoders BC-MAR-21 | 
-| 26 Febrero  | - | - | Graduación BC-AUG-20 | 
-| 08 Marzo  | - | - | Inicio generación BC-MAR-21 | 
-| 28 Mayo  | - | - | Graduación BC-NOV-20 | 
 
 ## Canales de Slack
 
