@@ -30,6 +30,7 @@
 - [Better Specs](https://www.betterspecs.org/)
 
 ## Learn Rails
+- [Código Facilito: curso completo de introducción a Rails](https://www.youtube.com/watch?v=wSNTT8MLI90)
 - [Ruby on Rails Official Web Site](https://rubyonrails.org/)
 - [Getting Started with Rails](https://guides.rubyonrails.org/getting_started.html)
 - [Ruby on Rails Tutorial - Michael Hartl](https://www.learnenough.com/ruby-on-rails-6th-edition-tutorial)
