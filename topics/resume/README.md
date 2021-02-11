@@ -36,7 +36,7 @@ Escribe una breve presentación que te describa, por ejemplo:
 ### Technical Skills
 Listado de tecnologías queue conoces así como el nivel de experiencia queue tienes. Por ejemplo, HTML, CSS, Javascript, Heroku, Linux, etc.
 
-Para indicar el nivel de experiencia utilizaremos el ***model Dreyfus** el cual define los siguientes niveles:
+Para indicar el nivel de experiencia utilizaremos el **modelo Dreyfus** el cual define los siguientes niveles:
 - Novice
 - Advanced beginner
 - Competent
