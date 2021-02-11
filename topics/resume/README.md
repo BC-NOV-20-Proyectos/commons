@@ -45,9 +45,8 @@ Para indicar el nivel de experiencia utilizaremos el **modelo Dreyfus** el cual 
 
 Para identificar en que nivel te encuentras utiliza los siguientes recursos en donde see explica que comprende cada nivel.
 - [How To Evaluate Expertise: the Dreyfus Model](https://www.solcept.ch/en/blog/dreyfus-model/)
-- [Building Software Development Expertise] – Using The Dreyfus Model
+- [Building Software Development Expertise – Using The Dreyfus Model](https://skorks.com/2009/08/building-software-development-expertise-using-the-dreyfus-model/)
 - [Software Engineer Qualification Levels: Junior, Middle, and Senior](https://hackernoon.com/software-engineer-qualification-levels-junior-middle-and-senior-f2229591df1c)
-- [Critical soft skills for software developers](https://medium.com/swlh/critical-soft-skills-for-software-developers-6845545f6dbd)
 
 ### Soft skills
 Son competencias o habilidades sociales que son fundamentales para relacionarse con otras personas ya sea en la vida diaria o en el trabajo, como por ejemplo la comunicación, el trabajo en equipo, adaptabilidad, creatividad, pensamiento creativo, solucion de problemas, confianza, administración del tiempo, personas o tareas, colaboración, etc.
@@ -58,6 +57,7 @@ Estas son algunas de las soft skills que más valoran los empleadores:
 - [10 Soft Skills Every Developer Needs](https://hackernoon.com/10-soft-skills-every-developer-needs-66f0cdcfd3f7)
 - [Top Soft Skills for Developers and Programmers in 2021](https://medium.com/aslisachin/top-soft-skills-for-developers-and-programmers-in-2020-62b8d663df01)
 - [Important Soft Skills for Information Technology (IT) Jobs](https://www.thebalancecareers.com/top-information-technology-it-soft-skills-2063781)
+- [Critical soft skills for software developers](https://medium.com/swlh/critical-soft-skills-for-software-developers-6845545f6dbd)
 
 ### Languages
 Incluye todos lo idiomas que sabes así como el nivel de dominio, si tienes resultado de alguna evaluación official como IELTS o TOEFL, indica el nivel o puntos obtenidos. Si **no** tienes alguna evaluación utiliza el modelo **Dreyfus** (presentado en la sección de habilidades técnicas). Si es tu lengua nativa puedes indicarlo como Native.
