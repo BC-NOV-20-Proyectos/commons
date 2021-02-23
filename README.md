@@ -4,7 +4,7 @@
 
 ## Contenido
 - [Sobre nosotros](https://github.com/bright-coders/commons/tree/master/topics/about)
-- [Oficina virtual (Gather)](https://gather.town/app/9eaLflBZw2S0ZfN1/BrightCodersU)
+- [Oficina virtual (Gather)](https://gather.town/app/CDB5o9krMBb2SpSM/BC-Conference)
 - [Seguimiento de actividades](https://github.com/bright-coders/commons/projects/1)
 
 
