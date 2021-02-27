@@ -25,4 +25,4 @@
 
 |Nombre   | WK01 | WK02 | WK03 | WK04 | WK05 | WK06 | WK07 | WK08 | WK09 | WK10 | WK11 | WK12 |
 |---------|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----
-|D        | [05 CM] [00 PR] [00 CR] | [05 CM] [00 PR] [00 CR] | [05 CM] [00 PR] [00 CR] | [05 CM] [00 PR] [00 CR] | [05 CM] [00 PR] [00 CR] | [05 CM] [00 PR] [00 CR] | [05 CM] [00 PR] [00 CR] | [05 CM] [00 PR] [00 CR] | [05 CM] [00 PR] [00 CR] | [05 CM] [00 PR] [00 CR] | [05 CM] [00 PR] [00 CR] | [05 CM] [00 PR] [00 CR] 
+|D        | 05 CM 00 PR 00 CR | 05 CM 00 PR 00 CR | 05 CM 00 PR 00 CR | 05 CM 00 PR 00 CR | 05 CM 00 PR 00 CR | 05 CM 00 PR 00 CR | 05 CM 00 PR 00 CR | 05 CM 00 PR 00 CR | 05 CM 00 PR 00 CR | 05 CM 00 PR 00 CR | 05 CM 00 PR 00 CR | 05 CM 00 PR 00 CR | 05 CM 00 PR 00 CR 
