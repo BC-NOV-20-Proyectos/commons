@@ -21,3 +21,8 @@
 | público | pory-tribo | Canal para comunicación del proyecto Tribo | Brightcoders y mentores del proyecto Tribo |
 | público | random | Canal para compartir cualquier tipo de información que no necesariamente está relacionada con BrightCoders | Brightcoders y mentores |
 | público | support | Canal principal para presentar y resolver dudas técnicas | BrightCoders y mentores |
+
+
+|Nombre   | WK01 | WK02 | WK03 | WK04 | WK05 | WK06 | WK07 | WK08 | WK09 | WK10 | WK11 | WK12 |
+|---------|:-----|:------|:-------:-----|:------|:-------:-----|:------|:-------:-----|:------|
+|.        | [05 CM] [00 PR] [00 CR] | [05 CM] [00 PR] [00 CR] | [05 CM] [00 PR] [00 CR] | [05 CM] [00 PR] [00 CR] | [05 CM] [00 PR] [00 CR] | [05 CM] [00 PR] [00 CR] | [05 CM] [00 PR] [00 CR] | [05 CM] [00 PR] [00 CR] | [05 CM] [00 PR] [00 CR] | [05 CM] [00 PR] [00 CR] | [05 CM] [00 PR] [00 CR] | [05 CM] [00 PR] [00 CR] 
