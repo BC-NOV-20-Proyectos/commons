@@ -23,5 +23,5 @@
 | público | support | Canal principal para presentar y resolver dudas técnicas | BrightCoders y mentores |
 
 
-|Nombre   | TOTAL| WEEK01 | WEEK01 | WEEK01 | WEEK01 | WEEK01 | WEEK01 | WEEK01 | WEEK01 | WEEK01 | WEEK01 | WEEK01 | WEEK01 | WEEK01 | WEEK01 | WEEK01 | WEEK01 |
+|Nombre   | TOTAL| WEEK01 | WEEK02 | WEEK03 | WEEK04 | WEEK05 | WEEK06 | WEEK07 | WEEK08 | WEEK09 | WEEK10 | WEEK11 | WEEK12 | WEEK13 | WEEK14 | WEEK15 | WEEK16 |
 |---------|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:----- |:----- |:----- |:----- |:----- |:----- |
