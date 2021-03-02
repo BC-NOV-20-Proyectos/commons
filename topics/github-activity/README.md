@@ -1,27 +1,30 @@
-![Brightcoders logo](img/logo-bc.png)
+![Logo BrightCoders](../../img/logo-bc.png)
 
-# Bienvenido a BrightCoders!
+# Actividad en Github
 
-## Contenido
-- [Sobre nosotros](https://github.com/bright-coders/commons/tree/master/topics/about)
-- [Oficina virtual (Gather)](https://gather.town/app/CDB5o9krMBb2SpSM/BC-Conference)
-- [Seguimiento de actividades](https://github.com/bright-coders/commons/projects/1)
+## Generación NOV-20
+
+### RUBY ON RAILS
+
+|Nombre   | TOTAL| WEEK01 | WEEK02 | WEEK03 | WEEK04 | WEEK05 | WEEK06 | WEEK07 | WEEK08 | WEEK09 | WEEK10 | WEEK11 | WEEK12 | WEEK13 | WEEK14 | WEEK15 | WEEK16 |
+|---------|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:----- |:----- |:----- |:----- |:----- |:----- |
 
 
-## Canales de Slack
+### REACT NATIVE
+
+|Nombre   | TOTAL| WEEK01 | WEEK02 | WEEK03 | WEEK04 | WEEK05 | WEEK06 | WEEK07 | WEEK08 | WEEK09 | WEEK10 | WEEK11 | WEEK12 | WEEK13 | WEEK14 | WEEK15 | WEEK16 |
+|---------|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:----- |:----- |:----- |:----- |:----- |:----- |
 
 
-| Tipo   | Nombre | Propósito | Participantes |
-|---------|:-----|:------|:-------|
-| público | announcements | Anuncios importantes como eventos, reuniones, etc. | BrightCoders y Mentores |
-| público | bootcamp-react-native | Comunicación con mentores de react-native, dudas técnicas, etc. | Brightcoders y mentores de react native |
-| público | estancia-profesional | Información relacionada con la estancia o prácticas profesionales | Brightcoders que realizan su estancia o práctica profesional |
-| público | general | Canal de bienvenida y asuntos generales | BrightCoders y mentores |
-| privado | mentors | Canal para comunicación con mentores | Mentores |
-| público | pory-tribo | Canal para comunicación del proyecto Tribo | Brightcoders y mentores del proyecto Tribo |
-| público | random | Canal para compartir cualquier tipo de información que no necesariamente está relacionada con BrightCoders | Brightcoders y mentores |
-| público | support | Canal principal para presentar y resolver dudas técnicas | BrightCoders y mentores |
+## Generación MAR-21
 
+### RUBY ON RAILS
+
+|Nombre   | TOTAL| WEEK01 | WEEK02 | WEEK03 | WEEK04 | WEEK05 | WEEK06 | WEEK07 | WEEK08 | WEEK09 | WEEK10 | WEEK11 | WEEK12 | WEEK13 | WEEK14 | WEEK15 | WEEK16 |
+|---------|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:----- |:----- |:----- |:----- |:----- |:----- |
+
+
+### REACT NATIVE
 
 |Nombre   | TOTAL| WEEK01 | WEEK02 | WEEK03 | WEEK04 | WEEK05 | WEEK06 | WEEK07 | WEEK08 | WEEK09 | WEEK10 | WEEK11 | WEEK12 | WEEK13 | WEEK14 | WEEK15 | WEEK16 |
 |---------|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:----- |:----- |:----- |:----- |:----- |:----- |
