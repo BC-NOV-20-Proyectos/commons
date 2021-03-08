@@ -8,10 +8,26 @@ Si alguno de los integrantes no tiene muchas participaciones, motívalo o dale o
 Al inicio del entrenamiento solamente se trabaja en Commits, pero más adelante comenzarás a hacer Pull Requests (PR) y Code Reviews (CR)
 
 Ek reporte muestra el total de contribuciones por semana así como el total durante todo el entrenamiento y se actualiza por lo menos 1 vez por semana.
-## Generación NOV-20
+## Generación MAR-21
 
 ### REACT NATIVE
 Ultima Actualización: Mon Mar 08 2021 12:38:27 GMT-0600 (hora estándar central)
 
-|Nombre   | TOTAL| WEEK01 | WEEK02 | WEEK03 | WEEK04 | WEEK05 | WEEK06 | WEEK07 | WEEK08 | WEEK09 | WEEK10 | WEEK11 | WEEK12 |
-|---------|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:----- |:----- |
+|Nombre   | TOTAL| WEEK01 | WEEK02 | WEEK03 | WEEK04 | WEEK05 | WEEK06 | WEEK07 | WEEK08 | WEEK09 | WEEK10 | WEEK11 | WEEK12 | WEEK13 | WEEK14 | WEEK15 | WEEK16 |
+|---------|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:----- |:----- |:----- |:----- |:----- |:----- |
+| Roberto Antonio Velasco Munguía | 02 | 02 CM  | | | | | | | | | | | | | | | |
+| Facundo Adrián Toconás |  |  | | | | | | | | | | | | | | | |
+| Miguel Antonio Rodriguez Perez |  |  | | | | | | | | | | | | | | | |
+| Pedro Daniel Hernández Rincón |  |  | | | | | | | | | | | | | | | |
+| Eusebio Ajas Santos |  |  | | | | | | | | | | | | | | | |
+| Jorge David Dominguez Wehbe |  |  | | | | | | | | | | | | | | | |
+| Javier Fernando Chi Ortiz |  |  | | | | | | | | | | | | | | | |
+| Mariano Alarcon |  |  | | | | | | | | | | | | | | | |
+| Angelina Moreno Robledo |  |  | | | | | | | | | | | | | | | |
+| Brayan Yassua Diaz Cardenas |  |  | | | | | | | | | | | | | | | |
+| Martín Ruiz López |  |  | | | | | | | | | | | | | | | |
+| Josué Rodrigo Fierro Morfín |  |  | | | | | | | | | | | | | | | |
+| Carlos Montiel |  |  | | | | | | | | | | | | | | | |
+| Alan Guillermo Avila Macías |  |  | | | | | | | | | | | | | | | |
+| Brayan Lopez Benitez |  |  | | | | | | | | | | | | | | | |
+| Arleys Roca Vargas |  |  | | | | | | | | | | | | | | | |
