@@ -13,7 +13,7 @@ Ek reporte muestra el total de contribuciones por semana así como el total dura
 ### RUBY ON RAILS
 Ultima Actualización: Mon Mar 08 2021 12:38:27 GMT-0600 (hora estándar central)
 
-|Nombre   | TOTAL| WEEK13 | WEEK14 | WEEK15 | WEEK16 | WEEK17 | WEEK18 | WEEK19 | WEEK20 | WEEK21 | WEEK22 | WEEK23 | WEEK24 |
+|Nombre   | TOTAL| WEEK01 | WEEK02 | WEEK03 | WEEK04 | WEEK05 | WEEK06 | WEEK07 | WEEK08 | WEEK09 | WEEK10 | WEEK11 | WEEK12 |
 |---------|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:----- |:----- |
 | Ariel Enrique May Dzul |  |  | | | | | | | | | | | |
 | Adrián Rama |  |  | | | | | | | | | | | |
