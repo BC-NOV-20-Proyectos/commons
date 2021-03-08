@@ -7,7 +7,7 @@ Si alguno de los integrantes no tiene muchas participaciones, motívalo o dale o
 
 Al inicio del entrenamiento solamente se trabaja en Commits, pero más adelante comenzarás a hacer Pull Requests (PR) y Code Reviews (CR)
 
-Ek reporte muestra el total de contribuciones por semana así como el total durante todo el entrenamiento y se actualiza por lo menos 1 vez por semana.
+El reporte muestra el total de contribuciones por semana así como el total durante todo el entrenamiento y se actualiza por lo menos 1 vez por semana.
 ## Generación MAR-21
 
 ### REACT NATIVE
