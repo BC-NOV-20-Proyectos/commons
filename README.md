@@ -21,7 +21,3 @@
 | público | pory-tribo | Canal para comunicación del proyecto Tribo | Brightcoders y mentores del proyecto Tribo |
 | público | random | Canal para compartir cualquier tipo de información que no necesariamente está relacionada con BrightCoders | Brightcoders y mentores |
 | público | support | Canal principal para presentar y resolver dudas técnicas | BrightCoders y mentores |
-
-
-|Nombre   | TOTAL| WEEK01 | WEEK02 | WEEK03 | WEEK04 | WEEK05 | WEEK06 | WEEK07 | WEEK08 | WEEK09 | WEEK10 | WEEK11 | WEEK12 | WEEK13 | WEEK14 | WEEK15 | WEEK16 |
-|---------|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:----- |:----- |:----- |:----- |:----- |:----- |
