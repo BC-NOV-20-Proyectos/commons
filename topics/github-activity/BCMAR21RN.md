@@ -15,19 +15,19 @@ Ultima Actualización: Mon Mar 08 2021 12:38:27 GMT-0600 (hora estándar central
 
 |Nombre   | TOTAL| WEEK01 | WEEK02 | WEEK03 | WEEK04 | WEEK05 | WEEK06 | WEEK07 | WEEK08 | WEEK09 | WEEK10 | WEEK11 | WEEK12 | WEEK13 | WEEK14 | WEEK15 | WEEK16 |
 |---------|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:----- |:----- |:----- |:----- |:----- |:----- |
-| Roberto Antonio Velasco Munguía | 02 | 02 CM  | | | | | | | | | | | | | | | |
-| Facundo Adrián Toconás |  |  | | | | | | | | | | | | | | | |
-| Miguel Antonio Rodriguez Perez |  |  | | | | | | | | | | | | | | | |
-| Pedro Daniel Hernández Rincón |  |  | | | | | | | | | | | | | | | |
-| Eusebio Ajas Santos |  |  | | | | | | | | | | | | | | | |
-| Jorge David Dominguez Wehbe |  |  | | | | | | | | | | | | | | | |
-| Javier Fernando Chi Ortiz |  |  | | | | | | | | | | | | | | | |
-| Mariano Alarcon |  |  | | | | | | | | | | | | | | | |
-| Angelina Moreno Robledo |  |  | | | | | | | | | | | | | | | |
-| Brayan Yassua Diaz Cardenas |  |  | | | | | | | | | | | | | | | |
-| Martín Ruiz López |  |  | | | | | | | | | | | | | | | |
-| Josué Rodrigo Fierro Morfín |  |  | | | | | | | | | | | | | | | |
-| Carlos Montiel |  |  | | | | | | | | | | | | | | | |
-| Alan Guillermo Avila Macías |  |  | | | | | | | | | | | | | | | |
-| Brayan Lopez Benitez |  |  | | | | | | | | | | | | | | | |
+| José Antonio Támara Fuentes |  |  | | | | | | | | | | | | | | | |
+| Carlos Eduardo Arreguin Ulloa |  |  | | | | | | | | | | | | | | | |
+| Carlos Adrian Cortés Meléndez |  |  | | | | | | | | | | | | | | | |
+| Eduardo Salazar Carrillo |  |  | | | | | | | | | | | | | | | |
+| Francisco Sabino López Escamilla |  |  | | | | | | | | | | | | | | | |
+| Orlando Álvarez Peregrina |  |  | | | | | | | | | | | | | | | |
+| Gonzalo Rojas Zamora |  |  | | | | | | | | | | | | | | | |
+| Demis Alberto Rincón Martínez |  |  | | | | | | | | | | | | | | | |
+| Miriam Alicia Márquez Rivera |  |  | | | | | | | | | | | | | | | |
+| Pável Isaac Macías García |  |  | | | | | | | | | | | | | | | |
+| Jose Barajas Garabita |  |  | | | | | | | | | | | | | | | |
+| Diego Rodríguez López |  |  | | | | | | | | | | | | | | | |
+| Jacqueline Flores Méndez |  |  | | | | | | | | | | | | | | | |
+| Alfredo Alonzo Alcaráz Silva |  |  | | | | | | | | | | | | | | | |
+| Gilberto Armando Aguirre Alvarez |  |  | | | | | | | | | | | | | | | |
 | Arleys Roca Vargas |  |  | | | | | | | | | | | | | | | |
