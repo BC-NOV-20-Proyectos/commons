@@ -11,10 +11,11 @@ El reporte muestra el total de contribuciones por semana así como el total dura
 ## Generación MAR-21
 
 ### RUBY ON RAILS
-Ultima Actualización: Mon Mar 08 2021 12:38:27 GMT-0600 (hora estándar central)
+Ultima Actualización: Mar 09 2021 09:20:12 GMT-0600 (hora estándar central)
 
 |Nombre   | TOTAL| WEEK01 | WEEK02 | WEEK03 | WEEK04 | WEEK05 | WEEK06 | WEEK07 | WEEK08 | WEEK09 | WEEK10 | WEEK11 | WEEK12 | WEEK13 | WEEK14 | WEEK15 | WEEK16 |
 |---------|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:----- |:----- |:----- |:----- |:----- |:----- |
+| Brayan Yassua Diaz Cardenas | 03 | 02 CM 01 PR  | | | | | | | | | | | | | | | |
 | Roberto Antonio Velasco Munguía | 02 | 02 CM  | | | | | | | | | | | | | | | |
 | Facundo Adrián Toconás |  |  | | | | | | | | | | | | | | | |
 | Miguel Antonio Rodriguez Perez |  |  | | | | | | | | | | | | | | | |
@@ -24,10 +25,10 @@ Ultima Actualización: Mon Mar 08 2021 12:38:27 GMT-0600 (hora estándar central
 | Javier Fernando Chi Ortiz |  |  | | | | | | | | | | | | | | | |
 | Mariano Alarcon |  |  | | | | | | | | | | | | | | | |
 | Angelina Moreno Robledo |  |  | | | | | | | | | | | | | | | |
-| Brayan Yassua Diaz Cardenas |  |  | | | | | | | | | | | | | | | |
 | Martín Ruiz López |  |  | | | | | | | | | | | | | | | |
 | Josué Rodrigo Fierro Morfín |  |  | | | | | | | | | | | | | | | |
 | Carlos Montiel |  |  | | | | | | | | | | | | | | | |
 | Alan Guillermo Avila Macías |  |  | | | | | | | | | | | | | | | |
 | Brayan Lopez Benitez |  |  | | | | | | | | | | | | | | | |
+| Arleys Roca Vargas |  |  | | | | | | | | | | | | | | | |
 | Arleys Roca Vargas |  |  | | | | | | | | | | | | | | | |
