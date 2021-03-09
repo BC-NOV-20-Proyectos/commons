@@ -11,7 +11,7 @@ El reporte muestra el total de contribuciones por semana así como el total dura
 ## Generación MAR-21
 
 ### REACT NATIVE
-Ultima Actualización: Mon Mar 08 2021 12:38:27 GMT-0600 (hora estándar central)
+Ultima Actualización: Mar 09 2021 09:20:12 GMT-0600 (hora estándar central)
 
 |Nombre   | TOTAL| WEEK01 | WEEK02 | WEEK03 | WEEK04 | WEEK05 | WEEK06 | WEEK07 | WEEK08 | WEEK09 | WEEK10 | WEEK11 | WEEK12 | WEEK13 | WEEK14 | WEEK15 | WEEK16 |
 |---------|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:----- |:----- |:----- |:----- |:----- |:----- |
